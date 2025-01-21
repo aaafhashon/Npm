@@ -1,0 +1,114 @@
+
+Based on the information available on the web, "Babu" can have multiple meanings and uses across different contexts:
+
+Historical and Cultural Significance: Historically, "Babu" is a title of nobility used by rulers and chieftains in the Indian subcontinent, similar to "Duke" in European contexts. It has been used as a respectful term, akin to "Mr." or "Sir." Over time, especially since the mid-20th century, it has also been used pejoratively to refer to Indian bureaucrats, particularly in the Indian media where the term "babudom" signifies the bureaucracy's influence or "rule of babus".
+
+
+
+As a Name: "Babu" is also a common given name in India, with meanings that can include "father" or be used as a term of endearment for a male child. It's noted in various cultural contexts as a name symbolizing respect or affection.
+
+
+
+In Entertainment: There's mention of "Babu" in film and media, like in the Tamil film "Sabash Babu," where Babu is the name of a character, indicating its use in creative works as well.
+
+General Descriptions: For business or project contexts, without specific details on your project, one might infer from general naming practices that "Babu" could be chosen for its cultural resonance, possibly aiming to evoke a sense of respect, tradition, or personal connection. However, if your project specifically relates to any of the above contexts (historical, cultural, name significance, or media), the name "Babu" would carry those connotations.
+
+If you're looking to describe your project named "Babu" further, it would be helpful to know the project's nature or industry. Is it in technology, arts, social services, or something else? This would allow for a more tailored description.
+
+
+
+An Efficient Technique for Managing User Information using Ethereum network 
+2226 
+Published By: 
+Blue Eyes Intelligence Engineering 
+& Sciences Publication 
+Retrieval Number: B7585129219/2019©BEIESP 
+DOI: 10.35940/ijitee.B7585.129219 
+contracts are reducing service and administration costs, 
+automation of applications in an effective manner and 
+efficient generation of reports. EVM enables provision of 
+developing the applications by using smart contract based 
+languages which are generally compiled into bytecode. In 
+ethereum, for every contract that is being executed on 
+blockchain platform, several computations are internally 
+performed and tokens called ethers are consumed inside the 
+network which are referred to as gas. Here the cost for the 
+given transaction is determined by the price of the gas times 
+the amount of gas used. The main difference between 
+ethereum networks and bitcoins are former maintains the 
+state of the transactions 
+In these networks, the different steps performed by the miner 
+for validating the transactions are 
+1) Determine the transactions processed in the given network 
+2) Form the blocks called Uncles or owners 
+3) Get the reward after successful mining of the block 
+4) Finally block is written to the chain and state is computed 
+as valid 
+5) Here, reward is given to each block successfully mined 
+which have been set to 3 ethers 
+The different technologies that supports ethereum networks 
+are swarm (used for effective storage of data), Whisper (used 
+for exchange of messages between the nodes) and EVM (for 
+achieving consensus) They are mainly used for building 
+decentralized applications by using several components such 
+as browsers, frameworks, different libraries, various front 
+end tools and ethereum clients. Generally, ethereum clients 
+performs the following actions such as forming an interaction 
+with the given network, writing the contracts which are 
+converted into bytecode via compiler and deployed into 
+blockchain, implementing different protocols, replicating the 
+blocks across the networks, managing ethereum accounts 
+which are used for sending/receiving the transactions using 
+ethereum accounts. Generally Ethereum based applications 
+are also executed in browser using popular metamask plugin 
+for chrome which uses infura service. The different libraries 
+used for building dapps are Web3.js(javascript), Web3(java) 
+and Nethereum(c#.net).Solidity a popular scripting language 
+used for writing smart contracts in ethereum networks 
+III. SOLIDITY 
+It is high level contract oriented scripting language which is 
+similar to classes and supports several concepts like 
+inheritance, various category of libraries etc which compiles 
+the given set of instructions into bytecode which are being 
+interpreted by EVM. Solidity compiler produces bytecode 
+and ABI(application binary interface) after successful 
+compilation of contract file. Generally solidity file (.sol file) 
+consists of several sections such as 
+1) Version containing pragma and include directives 
+2) Contracts containing declarations of state variables, 
+functions and its modifiers, events, struct and enum types. 
+State variables hold values which are stored in permanent 
+contract storage. The different types of state variables are 
+1) Value types (strings, integers, booleans, fixed, address 
+consists of 20-byte ethereum account address which 
+provides the base for all the contracts, enum types i.e., user 
+defined types which are converted explicitly to/from 
+integer types) 
+2) Function types ( internal/external functions where internal 
+functions are invoked inside the contract file and external 
+functions are invoked through API calls consisting of 
+address and signature of the function). The different access 
+specifiers for the function types are 
+a) public ( any contracts can invoke the function) 
+b) private (only particular contract can invoke the function) 
+c) view (function which doesn’t change contract data) 
+d) pure (function will not modify or access contract data) 
+e) payable ( ether will be propagated along the network 
+when someone invokes the function) 
+3) Reference types (fixed and dynamic array, mapping used 
+to map key to given value, struct which holds different 
+types). The location of data may be memory(temporary) or 
+storage(permanent) 
+Functions contains block of the code which are executed 
+inside EVM and they also contain modifiers which modifies 
+behavior of functions by checking the conditions before 
+executing the body of the function. The different operators 
+supported are arithmetic, bitwise, logical and increment 
+operators. 
+The different global variables available across the network 
+are data, sender, sig and value which are accessed using msg 
+object. Error handling functions supported in contract file are 
+1) assert ( test for internal errors if any inside the contract file) 
+2) require ( testing for valid inputs or checking whether the 
+given conditions are met or not) . 
+The structure of the contract file is shown in the figure
