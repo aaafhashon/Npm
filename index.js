@@ -12,3 +12,15 @@ app.get('/', (req, res) => {
 });
 
 app.listen(port);
+
+name.froject('Babu'-- {Babu,one coin,==1token  });
+//new(name?!!:=name,("BAbu")
+
+
+let bigger = required ('Babu');
+let ofSboll = BABU('require');
+
+let onder = ("TONblockchain")required;
+tag =Babu }} Babu bigger [total=on billions] required;
+
+const =!!!. supply. Babu,(one +billion of)=$100,000,0000,(required);
