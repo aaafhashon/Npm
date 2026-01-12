@@ -1,3 +1,9 @@
+#hacker {hacker}(hampul),
+*hacker:"hampul",done;{
+border,hacker[bade]
+public:hacke["world"]
+}
+
 
 # Haikus for Codespaces
 
